@@ -1,0 +1,6 @@
+ab abb abbb abbbb a123b a_xyz_b
+sequence_with_underscore Another_one_here
+ThisStringContainsUppercase AnotherExample happensHere AlsoHere
+Spaces, commas, and dots, like this sentence, need replacement. Will it change? Maybe, it will.
+A_snake_case_example thisCamelCaseString camelCaseToSnakeCase 
+Call us at 123-456-7890 or 987-654-3210.
